@@ -1,0 +1,1 @@
+With current interval tic of 100 and move at 200 the max score that can be achieved is 216 (total possible steps 24, valid food point: 9, invalid: -1), highest seen so far: 195
